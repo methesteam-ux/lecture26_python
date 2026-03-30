@@ -1,2 +1,2 @@
 # lecture26_python
-파이
+파이썬
